@@ -1,6 +1,8 @@
 {
   "name": "git-exemplo",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular",
   "id": "6e496178"
 }
